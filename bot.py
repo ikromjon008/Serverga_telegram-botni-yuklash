@@ -1,4 +1,4 @@
-mport telebot
+import telebot
 
 
 # bot father yordamida yaratgan botimizni tokenini olamiz
